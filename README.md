@@ -7,6 +7,7 @@
 ### SOFTWARE REQUIRED:   Quartus prime
 ### THEORY 
 ## procedure:
+
 1.Create a New Project:
 Open Quartus and create a new project by selecting "File" > "New Project Wizard."
 Follow the wizard's instructions to set up your project, including specifying the project name, location, and target device (FPGA).
