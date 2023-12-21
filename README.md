@@ -90,5 +90,6 @@ endmodule
 ## WAVEFORM :
 ![image](https://github.com/23011258/Exp-7-Synchornous-counters-/assets/139842204/75cbd884-cb5e-4d59-a459-f7f20073e15f)
 
+
 ## RESULT:
 By this we have verified the truth table of 4-bit up-counter using verilog.
