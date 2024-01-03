@@ -1,5 +1,5 @@
-## NAME:  Lakshmi mounika
-## Register number:  23004124
+## NAME: MITHUN KALYAN PAGADALA
+## Register number:  23002386
 # Exp-6-Synchornous-counters - up counter and down counter 
 ### AIM: To implement 3- bit up and down counters and validate  functionality.
 ### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
@@ -125,3 +125,4 @@ endmodule
 
 ### RESULTS 
 By this we have verified the truth table of 3-bit up-counter using verilog.
+
